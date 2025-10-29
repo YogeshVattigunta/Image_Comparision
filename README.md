@@ -1,5 +1,13 @@
 # Image_Comparision
 
+# Architecture Diagram
+<p align="center">
+  <img src="iter-2.png" alt="Prototype Preview" width="70%">
+  <br>
+  <em>Figure: Image Similarity Project Interface</em>
+</p>
+
+
 # Image Similarity Analyzer
 
 > A powerful deep-learning–based web app that compares two images and calculates their visual similarity using **VGG16**, **ResNet50**, and **Gemini AI** for intelligent hybrid analysis.
@@ -66,4 +74,5 @@ python app.py
 
 Now open your browser and visit:
 👉 http://127.0.0.1:5000/
+
 
